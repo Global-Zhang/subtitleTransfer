@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+/*针对小文件筛选没出问题，但文件大了出现两拨时间不匹配&文字段落超标*/
 @Service
 public class PickWordAndNumFromCharArray {
     private static final Character[] NOT_CHINESE = {'0','1','2','3','4','5','6','7','8','9',':','-','>',',',' '};
