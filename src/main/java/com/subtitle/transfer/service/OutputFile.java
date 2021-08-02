@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
-
+//输出文件
 @Service
 public class OutputFile {
     //"C:\\Users\\Desktop\\world war 2.bcc"
