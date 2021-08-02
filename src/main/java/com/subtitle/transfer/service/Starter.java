@@ -1,5 +1,5 @@
 package com.subtitle.transfer.service;
-
+/*这个类应该删掉了*/
 public class Starter {
 
     /*public static void main(String[] args){
